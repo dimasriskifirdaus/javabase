@@ -50,8 +50,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
    - Make sure you already have git on your machine, if you don't, then download on this link https://git-scm.com/download/win
    - Open Git Bash from start menu
-   - cd <your-desired-project-folder>
-   - git clone <this-repo-link>
+   - cd {your-desired-project-folder}
+   - git clone {this-repo-link}
 
 3. Open the folder in your vscode, and then click run button on top-right corner of your code
    OR
